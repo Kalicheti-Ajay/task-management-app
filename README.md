@@ -28,6 +28,7 @@ Task Recommendations: Select option 4 from the menu to receive a task recommenda
 Exiting the App: Select option 5 from the menu to exit the application.
 
 Dependencies
+
 The Python Task Management App utilizes the following dependencies:
 
 pandas
