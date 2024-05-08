@@ -38,9 +38,9 @@ Dependencies
 
 The Python Task Management App utilizes the following dependencies:
 
-pandas
+1.pandas
 
-scikit-learn
+2.scikit-learn
 
 Ensure these dependencies are installed in your Python environment before running the application.
 
