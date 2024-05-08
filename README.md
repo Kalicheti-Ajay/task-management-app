@@ -15,7 +15,9 @@ Features
 
 4.Task Recommendations: Users can receive task recommendations based on priority. If high-priority tasks are available, the app will suggest one randomly.
 
+
 Getting Started
+
 To get started with the Python Task Management App, follow these steps:
 
 1.Ensure you have Python installed on your computer.
