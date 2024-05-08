@@ -1,4 +1,4 @@
-# task-management-app.
+# task-management-app
 Python Task Management App
 
 Overview
